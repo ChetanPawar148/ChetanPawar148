@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chetan Pawar</h1>
 
 <h3 align="center">
-Cybersecurity Student | Ethical Hacker | Full Stack Developer
+Cybersecurity Student | CTF PLAYER | Full Stack Developer
 </h3>
 
 <p align="center">
